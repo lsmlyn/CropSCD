@@ -1,1 +1,38 @@
-available soon
+## Cropland-SCD
+
+The pytorch implementation for **MeGNet** in paper "[A Memory Guided Network and A Novel Dataset for Cropland Semantic Change Detection](https://ieeexplore.ieee.org/document/10579791/)" on [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36).  
+
+## Requirements
+- Python 3.6
+- Pytorch 1.7.0
+
+
+## Datasets
+### CropLand Senmantic Change Dection (CropSCD) Dataset
+The CropSCD dataset contains 4,141 pairs of high-resolution samples, each with a size of 512×512 and a resolution between 0.5-2 meters.
+All images of the samples were randomly collected from rural areas of Guangdong Province, China, while their corresponding labels were precisely annotated through expert visual interpretation.
+The dataset contains a total of eight distinct change classes, which include Water, Forest, Plantation, Grassland, Impervious Surface, Greenhouse, Road, and Bare Soil.
+
+- Download the CropSCD Dataset: [OneDrive](https://1drv.ms/u/s!AlRAU4OtVo9zcamTmyagGfylYss?e=LpG2XF) | [Baidu](https://pan.baidu.com/s/1_qKdEx3PeNTUfMPsgBltjA?pwd=to0q)
+- Download the [HRSCD Dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)
+
+
+
+
+
+## Citation
+
+Please cite our paper if you use this code in your work:
+
+```
+@ARTICLE{10579791,
+  author={Liu, Mengxi and Lin, Simin and Zhong, Yutong and Shi, Qian and Li, Jiaqi},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Memory Guided Network and A Novel Dataset for Cropland Semantic Change Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Semantics;Feature extraction;Task analysis;Transformers;Land surface;Soil;Plantations;Remote sensing;semantic change detection;deep learning;memory;Transformer},
+  doi={10.1109/TGRS.2024.3421654}}
+```
