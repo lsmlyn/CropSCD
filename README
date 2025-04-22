@@ -13,7 +13,7 @@ The CropSCD dataset contains 4,141 pairs of high-resolution samples, each with a
 All images of the samples were randomly collected from rural areas of Guangdong Province, China, while their corresponding labels were precisely annotated through expert visual interpretation.
 The dataset contains a total of eight distinct change classes, which include Water, Forest, Plantation, Grassland, Impervious Surface, Greenhouse, Road, and Bare Soil.
 
-- Download the CropSCD Dataset: [OneDrive](https://1drv.ms/u/s!AlRAU4OtVo9zcamTmyagGfylYss?e=LpG2XF) | [Baidu](https://pan.baidu.com/s/1_qKdEx3PeNTUfMPsgBltjA?pwd=to0q)
+- Download the CropSCD Dataset: [OneDrive](https://1drv.ms/u/s!AlRAU4OtVo9zcamTmyagGfylYss?e=LpG2XF) | [Baidu](https://pan.baidu.com/s/1XxNplRS_D4hH9md2NKw7qQ?pwd=b8gg)
 - Download the [HRSCD Dataset](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)
 
 
